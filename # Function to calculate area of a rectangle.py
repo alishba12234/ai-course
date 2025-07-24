@@ -6,6 +6,6 @@ def calculate_area(width, height):
 width = 5
 height = 10
 # Calculate the area
-area = (5*10)
+area = (height*width)
 # Print the result
-print('The area of the rectangle is: {50}')
+print('The area of the rectangle is:' , area)
